@@ -7,3 +7,8 @@ The dataset used in the project: https://colab.research.google.com/drive/1ds3HOW
 Used programs in this project:
 1. C++ (Qt developer & Qt designer)
 2. Python (Pandas-GeoPandas)
+
+Mainly used concepts:
+1. Inheritance (Borough.h -> parent | Manhattan.h, Brooklyn.h, Queens.h, Bronx.h, and StatenIsland.h -> child )
+2. Arrays and Constructor Overloading (Manhattan.h, Brooklyn.h, Queens.h, Bronx.h, and StatenIsland.h)
+3. File Input/Output & Exception Handling (financialSupport.cpp)
